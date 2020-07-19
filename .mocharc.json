@@ -1,0 +1,15 @@
+{
+  "diff": true,
+  "extension": "ts",
+  "exit": true,
+  "colors": true,
+  "timeout": 60000,
+  "full-trace": true,
+  "recursive": true,
+  "require": [
+    "tsconfig-paths/register",
+    "ts-node/register",
+    "reflect-metadata",
+    "Test/PreTest.ts"
+  ]
+}
